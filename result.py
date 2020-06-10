@@ -22,6 +22,8 @@ hwm=[time_function(py_project.multiComp, 'tt.jpg', i) for i in N]
 print(hwm)
 
 
+my_xticks = ['1','2','3','4']
+plt.xticks(N, my_xticks)
 plt.plot(N, hwm, marker='o', label="My func")
 plt.plot(N, cv_comp, marker='o', label="OpenCV")
 plt.title('OpenCV vs my function')
