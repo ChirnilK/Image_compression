@@ -1,5 +1,7 @@
 # Image_compression with Haar Wavelets
 
+## Overview
+
 This is my school project on image compression with Haar Wavelets.
 
 I study a method for compressing a grayscale image. 
@@ -9,7 +11,7 @@ http://www.whydomath.org/node/wavlets/hwt.html
 
 A color image or a format other than jpg can be taken in however it will be transformed into a grayscale image and the result will be saved as a jpg-file.
 
-
+## Description
 
 ### class_comp.py
 
@@ -26,7 +28,17 @@ Now you can compress an image as many times as you tell it to. (The size is limi
 
 ### result.py / cv.py / py_project.py
 
-When you run the file, result.py, you will see how long each function (a built-in function of OpenCV, and my function with Haar Wavelets for compressing an image) takes time for 1, 2, 3, 4 compressions. Clearly, the built-in function (reshape) of OpenCV is much faster than my function.
+When you run the file, result.py, you will see how long each function (a built-in function of OpenCV, and my function with Haar Wavelets for compressing an image) takes time for 1, 2, 3, 4 compressions. 
+
+
+## Requirement
+
+-Python 3.7.7
+-matplotlib 3.1.3
+-opencv-python 4.2.0.34
+-conda 4.8.3
+
+
 
 
 
