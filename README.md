@@ -8,6 +8,7 @@ The theory is explained in this link :
 http://www.whydomath.org/node/wavlets/hwt.html
 
 
+
 #class_comp.py
 
 The code is written as a class/object stile.
