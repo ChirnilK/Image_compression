@@ -7,6 +7,8 @@ The mathematical method is called Haar wavelets - a method based on simply takin
 The theory is explained in this link :
 http://www.whydomath.org/node/wavlets/hwt.html
 
+The result will be saved as jpg file but you can compress png file as well.
+
 
 
 #class_comp.py
