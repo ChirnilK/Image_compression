@@ -7,7 +7,7 @@ The mathematical method is called Haar wavelets - a method based on simply takin
 The theory is explained in this link :
 http://www.whydomath.org/node/wavlets/hwt.html
 
-The result will be saved as a jpg-file but you can compress png-file as well.
+A color image or a format other than jpg can be taken in however it will be transformed into a grayscale image and the result will be saved as a jpg-file.
 
 
 
