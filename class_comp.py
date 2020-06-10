@@ -16,8 +16,8 @@ class Image_compression:
         img = cv2.imread(filepath)
         
         if img is None:
-                print("Failed to load image file.")
-                sys.exit(1)
+            print("Failed to load image file.")
+            sys.exit(1)
                 
         img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     
