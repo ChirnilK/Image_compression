@@ -137,4 +137,4 @@ def multiComp(filename, times):
                    
     return topLeft(compd)
         
-multiComp('tt.jpg', 1)
+#multiComp('tt.jpg', 1)
