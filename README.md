@@ -34,8 +34,11 @@ When you run the file, result.py, you will see how long each function (a built-i
 ## Requirement
 
 -Python 3.7.7
+
 -matplotlib 3.1.3
+
 -opencv-python 4.2.0.34
+
 -conda 4.8.3
 
 
