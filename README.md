@@ -26,6 +26,8 @@ Now you can compresses a image as many times as the you tell it to.(The size is 
 
 ### result.py / cv.py / py_project.py
 
+When you run the file, result.py, you will see how long each function (OpenCV, reshape, and my function for compressing an image) takes time for 1, 2, 3, 4 compressions. Clearly, reshape function of OpenCV is much faster than my function.
+
 
 
 
