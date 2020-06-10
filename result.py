@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 10 10:21:22 2020
-
-@author: chiha
-"""
 
 import py_project
 import cv
