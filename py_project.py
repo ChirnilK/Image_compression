@@ -10,6 +10,10 @@ import sys
 
 
 def readImg(filename):
+    """ The function requires one input, filename with the format. A color image or 
+        a format other than jpg can be taken in however it will be transformed into 
+        a grayscale image and saved as a jpg file.
+        If the file path doesn't exist, then the system will close. """
     
     img = cv2.imread(filename)
 
