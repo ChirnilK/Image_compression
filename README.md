@@ -28,7 +28,9 @@ Now you can compress an image as many times as you tell it to. (The size is limi
 
 ### result.py / cv.py / py_project.py
 
-When you run the file, result.py, you will see how long each function (a built-in function of OpenCV, and my function with Haar Wavelets for compressing an image) takes time for 1, 2, 3, 4 compressions. 
+py_project.py : My implementation of compressing a grayscale image with Haar Wavelets.
+cv.py         : A function for compressing a grayscale image using an OpenCV built-in function "reshape"
+When you run the file, result.py, you will see how long each function (a built-in function, and my implementation with Haar Wavelets) takes time for 1, 2, 3, 4 compressions. 
 
 
 ## Requirement
