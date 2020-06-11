@@ -16,7 +16,7 @@ A color image or a format other than jpg can be taken in however it will be tran
 ### class_comp.py
 
 The code is written as a class/object style.
-Here you can compress a picture one time which means the picture size will be 1/4 (n/2 x m/2) when original size is (m x n).
+Here you can compress a picture one time which means the picture size will be 1/4 (m/2, n/2) when original size is (m, n).
 
 
 
